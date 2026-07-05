@@ -4,8 +4,6 @@ import Quickshell
 
 import "../Components"
 
-ShellRoot {
-
     PanelWindow {
         id: panel
 
@@ -172,4 +170,3 @@ ShellRoot {
             }
         }
     }
-}
